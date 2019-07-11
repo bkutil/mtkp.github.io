@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTKP</title>
+    <link>https://mtkp.cz/</link>
+    <description>Recent content on MTKP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2017 06:02:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://mtkp.cz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malá technická knihovna Písek</title>
+      <link>https://mtkp.cz/home/</link>
+      <pubDate>Thu, 26 Jan 2017 06:02:12 +0100</pubDate>
+      
+      <guid>https://mtkp.cz/home/</guid>
+      <description>Kontakt Pokud si chcete půjčit knížku, mrkněte se nejdřív do seznamu níže, jestli není zrovna v oběhu.
+Ideálně mi tak den předem napište mail na balazs@kutilovi.cz, kterou knížku si chcete vypůjčit.
+Pak si ji můžete vyzvednout a vrátit každé pondělí, mezi 15:00-17:00, ve Smetanově ulici 78&amp;frasl;1 v Písku. Kancelář nemá zvonek, ale když mi zavoláte na 774 788 228, navedu Vás.
+
+Podmínky vypůjčení Knížky se půjčují na měsíc.</description>
+    </item>
+    
+  </channel>
+</rss>

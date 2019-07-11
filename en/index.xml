@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTKP</title>
+    <link>https://mtkp.cz/en/</link>
+    <description>Recent content on MTKP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2017 06:02:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://mtkp.cz/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tiny tech library in Písek</title>
+      <link>https://mtkp.cz/en/home/</link>
+      <pubDate>Thu, 26 Jan 2017 06:02:12 +0100</pubDate>
+      
+      <guid>https://mtkp.cz/en/home/</guid>
+      <description>Contact First, check that the book is available in the table below.
+Then shoot me an email to balazs@kutilovi.cz with the name of the book, ideally a day in advance.
+Books can be picked up and returned on Mondays. 3-5 p.m, Smetanova 78&amp;frasl;1, Písek. My office doesn&amp;rsquo;t have a doorbell, so call me at +420 774 788 228 when you arrive and I&amp;rsquo;ll navigate you around.
+
+Terms You can borrow the book for a month.</description>
+    </item>
+    
+  </channel>
+</rss>
